@@ -8,9 +8,9 @@ This is my portofolio when do some analysis.
 * Do some explorations
 
 # [Project 2 : Anakdata.id](https://github.com/harrymaringantua/harrymaringantua.github.io/tree/main/Anakdata.id)
-* Week 1 : Basic Statistics
-* Week 2 : Decriptive Statistics
-* Week 3 : Inferential Statistics
+* Week 1 : Descriptive Statistics
+* Week 2 : Inferential Statistics
+* Week 3 : Customer Segmentation
 * Week 4 : HR Analytics
 
 # [Project 3 : COVID19 in Indonesia](https://github.com/harrymaringantua/harrymaringantua.github.io/tree/main/Covid-19%20Project)
